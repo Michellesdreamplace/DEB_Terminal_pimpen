@@ -57,7 +57,7 @@ echo "************************************************************"
 echo "    erstelle Sicherungskopie deiner bisherigen .bashrc ..."
 echo " ..."
 
-# ---------- TO-DO ----------
+# ---------- WIP ----------
 
 echo "************************************************************"
 echo "    entpacke Datei in dein persönlichen Ordner ..."
