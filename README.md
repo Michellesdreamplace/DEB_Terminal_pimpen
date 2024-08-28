@@ -15,3 +15,7 @@
 ```sh ./Downloads/pimp_Terminal.sh```  
 
   -------------------------------------------------------------------------------------------
+
+## !!! WIP !!!  
+
+... Work in Progress ... (Code noch nicht ganz fertig) ...  
