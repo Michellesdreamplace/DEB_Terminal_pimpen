@@ -4,14 +4,14 @@
 
   
   
--➤ Lade die Datei "install_icon_theme.sh" als RAW-Datei herunter,  
+-➤ Lade die Datei "pimp_Terminal.sh" als RAW-Datei herunter,  
   
--➤ Gib der Datei "install_icon_theme.sh" die Rechte zum Ausführen,  
+-➤ Gib der Datei "pimp_Terminal.sh" die Rechte zum Ausführen,  
   
-   z.B. im Terminal mit: ```chmod +x ./Downloads/install_icon_theme.sh```  
+   z.B. im Terminal mit: ```chmod +x ./Downloads/pimp_Terminal.sh```  
   
 -➤ Öffne ein Terminal und führe das Skript mit folgendem Befehl aus:  
   
-```sh ./Downloads/install_icon_theme.sh```  
+```sh ./Downloads/pimp_Terminal.sh```  
 
   -------------------------------------------------------------------------------------------
