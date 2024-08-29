@@ -1,8 +1,10 @@
 #!/bin/bash
 BENUTZER=$USER
-echo "Huhu $BENUTZER"
 HOMEVERZEICHNIS=$HOME
-echo "Dein Home-Verzeichnis ist: $HOMEVERZEICHNIS"
+MYSHELL=$SHELL
+echo "Huhu $BENUTZER"
+echo "Dein Home-Verzeichnis: $HOMEVERZEICHNIS"
+echo "Deine Shell: $MYSHELL"
 echo "************************************************************"
 echo "    lese Paketdatenbank (Repository-Index) neu ein"
 echo "    und finde defekte Pakete ..."
