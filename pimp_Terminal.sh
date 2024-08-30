@@ -11,9 +11,9 @@ NORMAL='\033[0;39m'
 BENUTZER=$USER
 HOMEVERZEICHNIS=$HOME
 MYSHELL=$SHELL
-echo "$PURPLE Hallo $BENUTZER"
-echo "$PURPLE Dein Home-Verzeichnis: $HOMEVERZEICHNIS"
-echo "$PURPLE Deine Shell: $MYSHELL"
+echo "$CYAN Hallo $BENUTZER"
+echo "$CYAN Dein Home-Verzeichnis: $HOMEVERZEICHNIS"
+echo "$CYAN Deine Shell: $MYSHELL"
 echo "$GREEN ************************************************************"
 echo "$GREEN     installiere git (falls nicht vorhanden) ..."
 echo "$GREEN     ... um Repositories klonen zu können ..."
